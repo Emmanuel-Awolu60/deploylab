@@ -13,7 +13,7 @@ Most deployment setups are either too simple to learn from or too
 proprietary to inspect. DeployLab is neither.
 
 It is a real AWS deployment platform built piece by piece, decision 
-by decision — that anyone can fork, study, and adapt. Every layer 
+by decision that anyone can fork, study, and adapt. Every layer 
 added solves a specific problem: making deployments more reliable, 
 more automatic, and easier to trust.
 
@@ -26,7 +26,7 @@ grows over time.
 
 Deploying software reliably and automatically is harder than it looks.
 It involves infrastructure provisioning, CI/CD pipelines, container 
-orchestration, secrets management, observability, and more — each 
+orchestration, secrets management, observability, and more each 
 with their own failure modes.
 
 DeployLab tackles this problem one layer at a time, with every 
