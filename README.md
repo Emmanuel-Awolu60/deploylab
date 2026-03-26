@@ -1,7 +1,7 @@
 # deploylab
 
 A production-grade, open-source deployment platform built on AWS.  
-DeployLab is a living infrastructure project — continuously improved, 
+DeployLab is a living infrastructure project continuously improved, 
 openly documented, and designed to demonstrate what reliable, 
 automated deployment looks like in practice.
 
@@ -36,7 +36,7 @@ addition documented and reasoned through.
 
 ## Architecture Roadmap
 
-Each stage is its own milestone — built, tested, and documented before 
+Each stage is its own milestone built, tested, and documented before 
 the next begins.
 
 | Stage | Focus                        | Status      |
@@ -53,8 +53,7 @@ the next begins.
 
 ## Follow the Build
 
-Every stage maps to a post on X (Twitter).  
-Follow along: [@yourhandle]
+Every stage maps to a post on Linkdin: https://www.linkedin.com/in/emmanuel-ao-463304254/.  
 
 ---
 
@@ -62,8 +61,8 @@ Follow along: [@yourhandle]
 
 - **Cloud:** AWS
 - **IaC:** Terraform
-- **CI/CD:** GitHub Actions *(coming)*
-- **Containers:** Docker *(coming)*
+- **CI/CD:** GitHub Actions
+- **Containers:** Docker
 - **Language:** Node.js
 
 ---
