@@ -12,7 +12,7 @@ automated deployment looks like in practice.
 Most deployment setups are either too simple to learn from or too 
 proprietary to inspect. DeployLab is neither.
 
-It is a real AWS deployment platform — built piece by piece, decision 
+It is a real AWS deployment platform built piece by piece, decision 
 by decision — that anyone can fork, study, and adapt. Every layer 
 added solves a specific problem: making deployments more reliable, 
 more automatic, and easier to trust.
